@@ -1,16 +1,6 @@
 # contador
 
-A new Flutter project.
+Aplicacion inicial de contador 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Contador](https://github.com/chucho5280/contador/assets/96545330/16334148-7069-4ee9-b7d7-a87f2cb92024)
