@@ -1,4 +1,4 @@
-# contador
+# Contador
 
 Aplicacion inicial de contador 
 
